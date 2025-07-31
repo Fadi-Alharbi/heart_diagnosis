@@ -8,4 +8,3 @@ The goal of this code is to build and evaluate multiple machine learning classif
 
 
 
-اطرح سؤالك على ChatGPT
